@@ -1,11 +1,13 @@
-class emp:
-    def __init__(self,name,age,lname):
-        self.name= name
-        self.age = age
-        self.lname = name+lname
+def greet(fun):    # the outer first function greet is ust for keyword. w he oriinal function is abc which we want to play before and after the hi funciton
+    def abc():
+        print("This is before the function")
+        fun()
+        print("this is after the function")
+    return abc()
+    
 
-e1 = emp("harsh",25,"patel")
-print(e1.lname)
-e1.name="raj"
-print("first name is ",e1.name)
-print("full name ",e1.lname )
+@greet
+def hi():
+    print("hello")
+
+hi()
