@@ -86,4 +86,41 @@ def deletfun(head,pos):
    return head
 
 
-      
+#update node at any position
+
+def update(head,pos,val):
+   curr = head
+   i=1
+  
+   while i < pos:
+      if curr==None :
+         return head
+      curr = curr.next
+      i+=1
+    
+   curr.data = val
+
+
+# print Node 
+def printlist(head):
+   if head == None:
+      print("empty list")
+
+   if head.next==None:
+      print(head.data)
+   curr = head
+   while curr != None:
+      print(curr.data,end=" ")
+      curr= curr.next
+
+
+print("\n Update list")
+np = Node(2)
+np.next = Node(34)
+np.next.next = Node(13)
+np.next.next.next = Node(45)
+np.next.next.next.next = Node(56)
+printlist(np)
+update(np,89,69)
+print("\n")
+printlist(np)
