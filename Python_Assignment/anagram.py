@@ -37,8 +37,31 @@ w = ["eat", "tea", "tan", "ate", "nat", "bat"]
 a = defaultdict(list)
 for word in w:
     s = ''.join(sorted(word))  #becomes key 
-    a[s].append(word) #adding key
+    a[s].append(word) #adding value to key
 
 res = list(a.values())
 print(res)
 
+# second approach
+
+
+
+def groupanagrams(strs):
+    anagramdict = defaultdict(list)
+    
+    for word in strs:
+        count = [0] * 26  # 26 letters
+        
+        for char in word:
+            index = ord(char) - ord('a')
+            count[index] += 1
+        
+        key = tuple(count)  # Convert list to tuple (hashable)
+        anagramdict[key].append(word)
+    
+    return list(anagramdict.values())
+
+
+# Example
+strs = ["eat","tea","tan","ate","nat","bat"]
+print(groupanagrams(strs))
