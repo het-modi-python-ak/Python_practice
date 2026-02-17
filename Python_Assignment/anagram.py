@@ -56,7 +56,7 @@ def groupanagrams(strs):
             index = ord(char) - ord('a')
             count[index] += 1
         
-        key = tuple(count)  # Convert list to tuple (hashable)
+        key = tuple(count) 
         anagramdict[key].append(word)
     
     return list(anagramdict.values())
