@@ -1,0 +1,152 @@
+[
+    {
+        "title": "GitHub's Fake Star Economy",
+        "url": "https://awesomeagents.ai/news/github-fake-stars-investigation/",
+        "rank": "1"
+    },
+    {
+        "title": "Up to 8M Bees Are Living in an Underground Network Beneath This Cemetery",
+        "url": "https://www.discovermagazine.com/up-to-8-million-bees-are-living-in-an-underground-network-beneath-this-cemetery-48977",
+        "rank": "2"
+    },
+    {
+        "title": "SDF Public Access Unix System",
+        "url": "https://sdf.org/?ssh",
+        "rank": "3"
+    },
+    {
+        "title": "Vercel April 2026 security incident",
+        "url": "https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/",
+        "rank": "4"
+    },
+    {
+        "title": "OpenClaw isn't fooling me. I remember MS-DOS",
+        "url": "https://www.flyingpenguin.com/build-an-openclaw-free-secure-always-on-local-ai-agent/",
+        "rank": "5"
+    },
+    {
+        "title": "NSA is using Anthropic's Mythos despite blacklist",
+        "url": "https://www.reuters.com/business/us-security-agency-is-using-anthropics-mythos-despite-blacklist-axios-reports-2026-04-19/",
+        "rank": "6"
+    },
+    {
+        "title": "Focused microwaves allow 3D printers to fuse circuits onto almost anything",
+        "url": "https://newatlas.com/electronics/meta-nfc-focused-microwaves-circuits/",
+        "rank": "7"
+    },
+    {
+        "title": "Claude Token Counter, now with model comparisons",
+        "url": "https://simonwillison.net/2026/Apr/20/claude-token-counts/",
+        "rank": "8"
+    },
+    {
+        "title": "Stop trying to engineer your way out of listening to people",
+        "url": "https://ashley.rolfmore.com/stop-trying-to-engineer-your-way-out-of-listening-to-people/",
+        "rank": "9"
+    },
+    {
+        "title": "Who Is Blake Whiting?",
+        "url": "https://theamericanscholar.org/who-is-blake-whiting/",
+        "rank": "10"
+    },
+    {
+        "title": "Stripe's Payment APIs: the first 10 years (2020)",
+        "url": "https://stripe.dev/blog/payment-api-design",
+        "rank": "11"
+    },
+    {
+        "title": "Zero-copy protobuf and ConnectRPC for Rust",
+        "url": "https://medium.com/@iainmcgin/zero-copy-protobuf-and-connectrpc-for-rust-69bda8ac0f02",
+        "rank": "12"
+    },
+    {
+        "title": "M 7.4 earthquake \u2013 100 km ENE of Miyako, Japan",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sri7/",
+        "rank": "13"
+    },
+    {
+        "title": "Ben Lerner's Big Feelings",
+        "url": "https://www.vulture.com/article/ben-lerner-transcription-interview.html",
+        "rank": "14"
+    },
+    {
+        "title": "A Brief History of Fish Sauce",
+        "url": "https://www.legalnomads.com/fish-sauce/",
+        "rank": "15"
+    },
+    {
+        "title": "I Made the \"Next-Level\" Camera and I love it",
+        "url": "https://thelibre.news/i-made-the-next-level-camera-and-i-love-it/",
+        "rank": "16"
+    },
+    {
+        "title": "Monumental ship burial beneath ancient Norwegian mound predates the Viking Age",
+        "url": "https://phys.org/news/2026-04-monumental-ship-burial-beneath-ancient.html",
+        "rank": "17"
+    },
+    {
+        "title": "The Bromine Chokepoint",
+        "url": "https://warontherocks.com/cogs-of-war/the-bromine-chokepoint-how-strife-in-the-middle-east-could-halt-production-of-the-worlds-memory-chips/",
+        "rank": "18"
+    },
+    {
+        "title": "Turtle WoW classic server announces shutdown after Blizzard wins injunction",
+        "url": "https://www.pcgamer.com/games/world-of-warcraft/turtle-wow-classic-server-announces-shutdown-after-blizzard-wins-injunction/",
+        "rank": "19"
+    },
+    {
+        "title": "Changes in the system prompt between Claude Opus 4.6 and 4.7",
+        "url": "https://simonwillison.net/2026/Apr/18/opus-system-prompt/",
+        "rank": "20"
+    },
+    {
+        "title": "IEA: Solar overtakes all energy sources in a major global first",
+        "url": "https://electrek.co/2026/04/19/iea-solar-overtakes-all-energy-sources-in-a-major-global-first/",
+        "rank": "21"
+    },
+    {
+        "title": "Mechanical Keyboard Sounds \u2013 A listening Museum",
+        "url": "https://sheets.works/data-viz/keyboard-sounds",
+        "rank": "22"
+    },
+    {
+        "title": "Two Motorola Transistors Became the Default NPNs",
+        "url": "https://www.allaboutcircuits.com/news/how-two-motorola-transistors-became-the-worlds-default-npns/",
+        "rank": "23"
+    },
+    {
+        "title": "A cache-friendly IPv6 LPM with AVX-512 (linearized B+-tree, real BGP benchmarks)",
+        "url": "https://github.com/esutcu/planb-lpm",
+        "rank": "24"
+    },
+    {
+        "title": "Scientific datasets are riddled with copy-paste errors",
+        "url": "https://www.sciencedetective.org/scientific-datasets-are-riddled-with-copy-paste-errors/",
+        "rank": "25"
+    },
+    {
+        "title": "Brussels launched an age checking app. Hackers took 2 minutes to break it",
+        "url": "https://www.politico.eu/article/eu-brussels-launched-age-checking-app-hackers-say-took-them-2-minutes-break-it/",
+        "rank": "26"
+    },
+    {
+        "title": "Swiss AI Initiative (2023)",
+        "url": "https://www.swiss-ai.org",
+        "rank": "27"
+    },
+    {
+        "title": "Knitout and Kniterate 3",
+        "url": "https://soup.agnescameron.info//2026/04/01/transfers.html",
+        "rank": "28"
+    },
+    {
+        "title": "Show HN: Run TRELLIS.2 Image-to-3D generation natively on Apple Silicon",
+        "url": "https://github.com/shivampkumar/trellis-mac",
+        "rank": "29"
+    },
+    {
+        "title": "Six Levels of Dark Mode (2024)",
+        "url": "https://cssence.com/2024/six-levels-of-dark-mode/",
+        "rank": "30"
+    }
+]
